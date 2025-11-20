@@ -5,7 +5,7 @@ const Users = () => {
   return (
     <div>
       <h1>Dashboard users</h1>
-      <ul className='mt-10'>
+      <ul className='mt-10 ml-10'>
         <li>
           <Link href='/dashboard/users/1'>User 1</Link>
         </li>
