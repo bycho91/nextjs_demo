@@ -1,10 +1,9 @@
 'use client';
-
 import React from 'react';
 
 const Hello = () => {
   console.log('i am a client component');
-  return <div>hello</div>;
+  return <div>Hello</div>;
 };
 
 export default Hello;
